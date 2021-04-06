@@ -1,10 +1,10 @@
 ## Hey 👋
 
-Hi am Tom - Consultant/ Ocassioanly Programmer working with the Microsoft Business Stack. I am a huge coffee, computer science and music nerd ☕
+Hi am Tom - Consultant/ Ocassioanly Programmer working with the Microsoft Business Stack. 
 
 ### How to Reach Me 
 
  📫 thomas@hey.com
  
- 💻  I ocassionaly blog [here](https://tomcoutts.com)
+ 💻  I blog [here](https://world.hey.com/thomas)
 
