@@ -1,6 +1,6 @@
 ## Hey 👋
 
-Hi am Tom - Consultant/ Ocassioanly Programmer @KPMG working with the Microsoft Business Stack. 
+Hi am Tom - Consultant/Programmer @KPMG working with the Microsoft Business Stack. 
 
 ### How to Reach Me 
 
